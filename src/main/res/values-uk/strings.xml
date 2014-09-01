@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="action_settings">Налаштування</string>
+    <string name="app_name">Військова камера</string>
+    <string name="action_about">Про програму</string>
+    <string name="enable_milcam_switch_text">Увімкнути військову камеру</string>
+    <string name="empty_settings_toast_text">Не можна увімкнути з порожніми налаштувань</string>
+    <string name="title_activity_about">Про програму</string>
+    <string name="title_activity_settings">Налаштування</string>
+    <string name="backend_url_input_hint">Backend URL</string>
+    <string name="get_device_id_button_text">Отримати ID</string>
+    <string name="device_id_text">Унікальний ідентіфікатор пристрію</string>
+    <string name="get_device_id_toast_text">Помилка отримання унікального ідентіфікатора пристрію</string>
+    <string name="save_settings_buttons_text">Зберегти налаштування</string>
+    <string name="save_empty_settings_toast_text">Неможливо зберегти порожні налаштування</string>
+    <string name="make_photo_interval_text">Інтервал зйомки</string>
+    <string name="authore_text_text"><![CDATA[Anonymous Ukrainian Patriot <anonymous.ukrainian.patriot@gmail.com>]]></string>
+
+</resources>
