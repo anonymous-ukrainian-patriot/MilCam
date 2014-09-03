@@ -14,6 +14,7 @@
     <string name="save_settings_buttons_text">Зберегти налаштування</string>
     <string name="save_empty_settings_toast_text">Неможливо зберегти порожні налаштування</string>
     <string name="make_photo_interval_text">Інтервал зйомки</string>
-    <string name="authore_text_text"><![CDATA[Anonymous Ukrainian Patriot <anonymous.ukrainian.patriot@gmail.com>]]></string>
+    <string name="settings_saved_toast_text">Налаштування збережені</string>
+    <string name="author_text_text"><![CDATA[Anonymous Ukrainian Patriot <anonymous.ukrainian.patriot@gmail.com>]]></string>
 
 </resources>

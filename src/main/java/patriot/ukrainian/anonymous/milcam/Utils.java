@@ -30,7 +30,7 @@ public class Utils {
     public static final String MILCAM_PREFERENCES_BACKEND_URL = "backend_url";
     public static final String MILCAM_PREFERENCES_DEVICE_ID = "device_id";
     public static final String MILCAM_PREFERENCES_MAKE_PHOTO_INTERVAL = "interval";
-    public static final String MILCAM_PREFERENCES_DEFAULT_BACKEND_URL = "http://www.milcam.tk/milcam/";
+    public static final String MILCAM_PREFERENCES_DEFAULT_BACKEND_URL = "http://www.milcam.tk/en/milcam/";
     public static final int MILCAM_PREFERENCES_DEFAULT_MAKE_PHOTO_INTERVAL = 1;
     public static int INTERVAL = 60000; // 60 sec
     public static int REQUEST_CODE = 18283848;

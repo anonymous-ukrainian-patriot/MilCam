@@ -15,6 +15,7 @@
     <string name="save_settings_buttons_text">Save settings</string>
     <string name="save_empty_settings_toast_text">Can\'t save empty settings</string>
     <string name="make_photo_interval_text">Make photo interval</string>
-    <string name="authore_text_text"><![CDATA[Anonymous Ukrainian Patriot <anonymous.ukrainian.patriot@gmail.com>]]></string>
+    <string name="settings_saved_toast_text">Settings saved</string>
+    <string name="author_text_text"><![CDATA[Anonymous Ukrainian Patriot <anonymous.ukrainian.patriot@gmail.com>]]></string>
 
 </resources>

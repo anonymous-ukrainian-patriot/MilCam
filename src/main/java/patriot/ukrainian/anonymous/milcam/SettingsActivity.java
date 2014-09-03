@@ -93,6 +93,8 @@ public class SettingsActivity extends Activity {
             emptySettingsToast.show();
         } else {
             setSaveSettings();
+            Toast settingsSavedToast = Toast.makeText(getApplicationContext(), R.string.settings_saved_toast_text, Toast.LENGTH_SHORT);
+            settingsSavedToast.show();
         }
         saveSettingsButton.setEnabled(true);
     }
