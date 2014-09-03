@@ -11,7 +11,7 @@ A MilCam documentation
 Installation
 ------------
 Obtain your copy of source code from git repository: git clone https://github.com/anonymous-ukrainian-patriot/MilCam.git. Or download latest release from https://github.com/anonymous-ukrainian-patriot/MilCam/tags
-Copy app-release.apk file to your android device and install it.
+Copy MilCam.apk file to your android device and install it.
 
 Configuration
 -------------
